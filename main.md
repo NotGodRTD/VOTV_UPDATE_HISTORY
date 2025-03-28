@@ -5,7 +5,7 @@
 
 ----------------------------------------
 # pa082b_0016 <--> 28-03-2025
-### Change log -->
+### Change log --> [pa082b-0016](changelogs/pa082b_0016.md)
 ## Custom data
 * Cheat version: empty
 * Data version: empty
